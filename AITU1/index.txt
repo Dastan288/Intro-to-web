@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <title>IT-1902</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <h1>Introduction to WEB</h1>
+	<hr>
+        <p><h3>Lesson 1<h3> in room <b>C1-358K</b> starts at 15:00 and ends at 15:50.Look,how our nature is beatiful!!
+        <hr>
+	<br>
+        <img width="720px" heigth="640" src="1.jpg" >
+        </p>
+        <p><a href="2.jpg">Look how it is magnificant</a></p>
+    </body>
+</html>
