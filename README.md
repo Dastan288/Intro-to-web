@@ -1,4 +1,3 @@
-  
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,15 +12,15 @@
 <body>
 <h1>introduction to web (C1.3.58)</h1>
 <hr>
-<p class="schedule"><h3><a href="#L1">Lesson 1</a></h3> on <i>Monday</i> starts at <b>15.00</b> and ends at <b>15.50</b> </p>
+<h3><a href="#L1">Lesson 1</a></h3> <p class="schedule">on <i>Monday</i> starts at <b>15.00</b> and ends at <b>15.50</b> </p>
 <hr>
-<p class="schedule"> <h3>Lesson 2</h3> on <i>Tuesday</i> starts at <b>12.00</b> and ends at <b>12.50</b></b> </p>
+ <h3>Lesson 2</h3><p class="schedule"> on <i>Tuesday</i> starts at <b>12.00</b> and ends at <b>12.50</b></b> </p>
 <hr>
-<p class="schedule"><h3>Lesson 3</h3> on <i>Thursday</i> starts at <b>15.00</b> and ends at <b>15.50</b> </p>
+<h3>Lesson 3</h3><p class="schedule"> on <i>Thursday</i> starts at <b>15.00</b> and ends at <b>15.50</b> </p>
 <hr>
-<p class="schedule"><h3>Lesson 4</h3> on <i>Thursday</i> starts at <b>16.00</b> and ends at <b>16.50</b> </p>
+<h3>Lesson 4</h3><p class="schedule"> on <i>Thursday</i> starts at <b>16.00</b> and ends at <b>16.50</b> </p>
 <hr>
-<p class="schedule"><h3>Lesson 5</h3> on <i>Friday</i> starts at <b>11.00</b> and ends at <b>11.50</b> </p>
+<h3>Lesson 5</h3><p class="schedule"> on <i>Friday</i> starts at <b>11.00</b> and ends at <b>11.50</b> </p>
 <hr><hr>
 <div id="L1">
   <em>Lesson 1</em>
